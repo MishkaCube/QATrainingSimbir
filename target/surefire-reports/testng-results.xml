@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-20T06:55:26Z" name="Surefire suite" finished-at="2022-02-20T06:55:44Z" duration-ms="17995">
+    <groups>
+    </groups>
+    <test started-at="2022-02-20T06:55:26Z" name="Surefire test" finished-at="2022-02-20T06:55:44Z" duration-ms="17995">
+      <class name="TestMain">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestMain@2b50150]" started-at="2022-02-20T06:55:26Z" name="setup" finished-at="2022-02-20T06:55:31Z" duration-ms="5269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testTesting()[pri:0, instance:TestMain@2b50150]" started-at="2022-02-20T06:55:31Z" name="testTesting" finished-at="2022-02-20T06:55:39Z" duration-ms="8091" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTesting -->
+        <test-method is-config="true" signature="ShutDown()[pri:0, instance:TestMain@2b50150]" started-at="2022-02-20T06:55:39Z" name="ShutDown" finished-at="2022-02-20T06:55:44Z" duration-ms="4364" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ShutDown -->
+      </class> <!-- TestMain -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
